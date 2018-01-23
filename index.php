@@ -9,7 +9,7 @@
 <body>
 <h1> About Me </h1>
 
-<img src="pic.jpg" alt = "Picture of Me">
+<img src="./images/pic.jpg" alt = "Picture of Me">
 
 <p><?php include('introduction.php'); ?> </p>
 
@@ -17,4 +17,3 @@
 </body>
 </html>
 
-https://stackoverflow.com/questions/11887429/php-include-for-html
