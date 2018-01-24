@@ -7,7 +7,7 @@
 	<link rel = "stylesheet" href = "css/style.css" />
 </head>
 <body>
-<h1> About Me </h1>
+<h1> About Me!</h1>
 
 <img src="./images/pic.jpg" alt = "Picture of Me">
 
