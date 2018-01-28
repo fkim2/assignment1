@@ -13,6 +13,7 @@
 
 	if($activePage=="index.php"){
 		$home = 'activeButton';
+		echo "<a href='index.php#home'> Home </a>";
 	} else if($activePage=="introduction.php"){
 		$introduction = 'activeButton';
 	}else if($activePage =="role.php"){
@@ -20,7 +21,7 @@
 	}
 ?>
 
-<a class = "<?php echo $home;?>" href = "../index.php"> Home</a>
+<a class = "<?php echo $home;?>" </a>
 <a class = "<?php echo $introduction;?>" href = "includes/introduction.php">Introduction</a>
 <a class = "<?php echo $role;?>" href = "includes/role.php">Initial Team Role</a>
 </html>
