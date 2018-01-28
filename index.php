@@ -7,13 +7,17 @@
 	<link rel = "stylesheet" href = "css/style.css" />
 </head>
 <body>
-<h1> About Me!</h1>
-
-<img src="./images/pic.jpg" alt = "Picture of Me">
-
-<p><?php include('introduction.php'); ?> </p>
-
-<p><?php include('role.php'); ?> </p>
+<header>
+<h1> Fayth Kim </h1>
+<div id = "navContainer">
+	<?php include('includes/nav.php');?>
+</div>
+</header>
+<div id = "bodyContainer">
+	<img src="images/pic.jpg" alt = "Picture of Me" width="275">
+	
+		<p> Welcome to my initial portfolio website! The website is still under construction and will get better over time!</p>
+</div>
 </body>
 </html>
 
