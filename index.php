@@ -14,7 +14,7 @@
 </div>
 </header>
 <div id = "bodyContainer">
-	<img src="images/pic.jpg" alt = "Picture of Me" width="275">
+	<img src="images/pic.jpg" alt = "Picture of Me">
 	
 		<p> Welcome to my initial portfolio website! The website is still under construction and will get better over time!</p>
 </div>
